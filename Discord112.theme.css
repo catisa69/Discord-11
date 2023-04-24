@@ -18,13 +18,13 @@
 /*-------------------------------------------------------------------------------------------------
                                         Windows 11 emojis
 --------------------------------------------------------------------------------------------------*/
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css);
+/* @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css);
 
 /*--------------------------------------------------------------
 Message bubble styles [If you don't want any place a /* in all]
 ----------------------------------------------------------------*/
 /* Message Bubble in Left Side */
-@import url(https://zuzumi-f.github.io/Discord-11/release/messagebubbleleft.css);
+/* @import url(https://zuzumi-f.github.io/Discord-11/release/messagebubbleleft.css);
 /* Default Message Bubble */
 /* @import url(https://zuzumi-f.github.io/Discord-11/release/messagebubble11.css); */
 /* New Message Bubble */
@@ -49,9 +49,9 @@ Message bubble styles [If you don't want any place a /* in all]
     --server-size: 48px; /* The size of the server icons [48px is default] */
       
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
-    --H: 199; /* Value only number [199 is default] */
+    --H: 0; /* Value only number [199 is default] */
     --S: 100%; /* Value in % [100% is default] */
-    --L: 69%; /* Value in % [69% is default] */
+    --L: 17%; /* Value in % [69% is default] */
 }
 
 /*----------------------------------------------------
